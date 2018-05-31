@@ -47,7 +47,7 @@
 
 * [documentat.io](http://documentat.io)
 
-[Презентация о документировании разработки мобильных приложений с митапа](https://slavachernikoff.gitbooks.io/technical-design-of-mobile-applications/)
+[Презентация о документировании разработки мобильных приложений с митапа](https://slavachernikoff.gitbooks.io/technical-design-of-mobile-applications/) от Славы Черникова.
 
 Документация Ansible:
 
@@ -180,6 +180,8 @@
 Если приходится писать слишком сложно, возможно фича сделана плохо — не в терминах проблемы.
 
 ## Что нужно разработчику мобильных приложений
+
+[Презентация](https://slavachernikoff.gitbooks.io/technical-design-of-mobile-applications/) от Славы Черникова
 
 * Архитектура проекта
 * Единая терминология
